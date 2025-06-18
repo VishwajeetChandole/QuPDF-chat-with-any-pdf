@@ -80,4 +80,4 @@ python app.py
 
 ## Author
 
-Created with ❤️ by **Team QuPDF**
+Created with ❤️ by **Vishwajeet Chandole**
