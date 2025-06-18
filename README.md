@@ -1,5 +1,4 @@
-# QuPDF - PDF Viewer with AI Chat
-
+# QuPDF - Chat with any PDF!
 QuPDF is a web application that allows users to view PDF documents and interact with an AI assistant to get summaries, ask questions, and receive answers based on the PDF content.
 
 ## Features
